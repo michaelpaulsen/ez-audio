@@ -1,0 +1,3 @@
+<video controls="" autoplay="" name="media">
+	<source src="file:///C:/Users/Michael/Desktop/michael/projects/ez%20audeo/songs/click.mp3" type="audio/mp3">
+</video>

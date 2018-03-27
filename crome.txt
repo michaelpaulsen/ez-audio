@@ -1,0 +1,3 @@
+<video name="audio" controls="controls">
+	<source type="audio/mp3" scr="../songs/click.mp3">
+</video>
